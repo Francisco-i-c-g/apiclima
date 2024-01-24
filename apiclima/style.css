@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(#4554fb, #b4c8ff);
+}
+
+#contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 650px;
+    
+}
+#caja1{
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+    text-align: center;
+    color: white;
+    background-color: #413b6b;
+    border-radius: 15px;
+    font-family: "verdana";
+}
+
+#caja2{
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+    text-align: center;
+    color: white;
+    background-color: #301c41;
+    border-radius: 15px;
+    font-family: "verdana";
+}
+#caja3{
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+    text-align: center;
+    color: white;
+    background-color: #1c0b2b;
+    border-radius: 15px;
+    font-family: "verdana";
+}
